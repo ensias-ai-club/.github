@@ -44,6 +44,7 @@ Stay connected with ENSIAS AI Club on our social media platforms and other commu
 - **GitHub**: [ENSIAS AI Club on GitHub](https://github.com/ensias-ai-club)
 - **Facebook**: [ENSIAS AI Club on Facebook](https://www.facebook.com/ensiasai)
 - **LinkedIn**: [ENSIAS AI Club on LinkedIn](https://www.linkedin.com/company/ensiasai/)
+- **Website**: [https://ensias-ai-club.github.io](https://ensias-ai-club.github.io)
 - **Email**: [ensias.ai.club@email.com](mailto:ensiais.ai.club@email.com)
 
 We're excited to have you as part of our AI community at ENSIAS. Let's learn, create, and innovate together! 🤖🚀
