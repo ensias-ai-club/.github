@@ -1,6 +1,6 @@
 # ENSIAS AI Club 🤖
 
-Welcome to the official GitHub repository of the ENSIAS AI Club! We are a community of AI enthusiasts at the National School of Computer Science and Systems Analysis (ENSIAS) in Morocco. Our mission is to promote and explore the fascinating world of Artificial Intelligence (AI) through collaborative projects, workshops, and knowledge sharing. 🚀
+Welcome to the official GitHub Organization of the ENSIAS AI Club! We are a community of AI enthusiasts at the National School of Computer Science and Systems Analysis (ENSIAS) in Morocco. Our mission is to promote and explore the fascinating world of Artificial Intelligence (AI) through collaborative projects, workshops, and knowledge sharing. 🚀
 
 ## About Us 📚
 We are a group of Moroccan university students passionate about Artificial Intelligence (AI). Our club is dedicated to exploring the many possibilities of AI and its applications in a wide range of fields. We are committed to helping our members develop their knowledge and understanding of AI, as well as providing a platform for them to share their ideas and experiences. Our goal is to provide a safe and encouraging environment for our members to explore AI and gain practical experience in AI technologies. We look forward to creating a community of like-minded individuals who are eager to learn and share their insights.
