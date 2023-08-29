@@ -48,5 +48,7 @@ Stay connected with ENSIAS AI Club on our social media platforms and other commu
 
 We're excited to have you as part of our AI community at ENSIAS. Let's learn, create, and innovate together! 🤖🚀
 
-![ENSIAS AI Club Logo](https://avatars.githubusercontent.com/u/91571498?s=200&v=4)
+<div align="center">
+<img width="260" src="./assets/ENSIAS_AI_Club_Logo_BG.jpg">
+</div>
 
