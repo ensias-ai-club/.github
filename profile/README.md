@@ -46,6 +46,7 @@ Joining the ENSIAS AI Club is easy and open to all ENSIAS students who share our
 <img align="right" width="200" src="https://ensias-ai-club.github.io/assets/images/ENSIAS_AI_Club_Logo_White.png">
 </picture>
 <div align="left">
+
 Stay connected with ENSIAS AI Club on our social media platforms and other communication channels:
 
 - **GitHub**: [ENSIAS AI Club on GitHub](https://github.com/ensias-ai-club)
@@ -55,9 +56,8 @@ Stay connected with ENSIAS AI Club on our social media platforms and other commu
 - **Email**: [ensias.ai.club@email.com](mailto:ensiais.ai.club@email.com)
 
 We're excited to have you as part of our AI community at ENSIAS. Let's learn, create, and innovate together! 🤖🚀
+
 </div>
 
-
-
-
-
+#
+<p align="center"> © 2023 ENSIAS AI Club </p>
