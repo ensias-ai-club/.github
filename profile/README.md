@@ -1,4 +1,4 @@
-# <picture><img align="left" width="40" src="https://ensias-ai-club.github.io/assets/images/ENSIAS_AI_Club_Logo_White.png"></picture><picture><img></picture> ENSIAS AI Club
+# <picture><img align="left" width="40" src="https://ensias-ai-club.github.io/assets/images/ENSIAS_AI_Club_Logo_White.png"></picture> ENSIAS AI Club
 
 <picture>
 <img width="100%" src="https://ensias-ai-club.github.io/assets/gifs/ENSIAS_AI_Club_Teaser.gif">
