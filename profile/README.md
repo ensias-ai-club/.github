@@ -29,7 +29,7 @@ This repository serves as a hub for our club's projects, resources, and activiti
 
 - 📅 **Events** : Stay updated on our upcoming events, meetings, and hackathons.
 
-## How to Get Involved ✨
+## ✨ How to Get Involved
 
 Joining the ENSIAS AI Club is easy and open to all ENSIAS students who share our passion for AI. Here's how you can get involved:
 
