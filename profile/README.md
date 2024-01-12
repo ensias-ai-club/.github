@@ -1,7 +1,7 @@
-# <picture><img align="left" width="40" src="https://ensias-ai-club.github.io/assets/images/ENSIAS_AI_Club_Logo_White.png"></picture> ENSIAS AI Club
+# <picture><img align="left" width="40" src="../assets/ENSIAS_AI_Club_Logo_White.png"></picture> ENSIAS AI Club
 
 <picture>
-<img width="100%" src="https://ensias-ai-club.github.io/assets/gifs/ENSIAS_AI_Club_Teaser.gif">
+<img width="100%" src="../assets/ENSIAS_AI_Club_Teaser.gif">
 </picture>
 
 Welcome to the official GitHub Organization of the ENSIAS AI Club! We are a community of AI enthusiasts at the National School of Computer Science and Systems Analysis (ENSIAS) in Morocco. Our mission is to promote and explore the fascinating world of Artificial Intelligence (AI) through collaborative projects, workshops, and knowledge sharing. 🚀
@@ -43,7 +43,7 @@ Joining the ENSIAS AI Club is easy and open to all ENSIAS students who share our
 
 ## 🌐 Connect With Us 
 <picture>
-<img align="right" width="200" src="https://ensias-ai-club.github.io/assets/images/ENSIAS_AI_Club_Logo_White.png">
+<img align="right" width="200" src="../assets/ENSIAS_AI_Club_Logo_White.png">
 </picture>
 <div align="left">
 
@@ -52,12 +52,12 @@ Stay connected with ENSIAS AI Club on our social media platforms and other commu
 - **GitHub**: [ENSIAS AI Club on GitHub](https://github.com/ensias-ai-club)
 - **Facebook**: [ENSIAS AI Club on Facebook](https://www.facebook.com/ensiasai)
 - **LinkedIn**: [ENSIAS AI Club on LinkedIn](https://www.linkedin.com/company/ensiasai/)
-- **Website**: [https://ensias-ai-club.github.io](https://ensias-ai-club.github.io)
-- **Email**: [ensias.ai.club@email.com](mailto:ensiais.ai.club@email.com)
+- **Website**: [https://eaic.vercel.app](https://eaic.vercel.app)
+- **Email**: [ensias.ai.club@gmail.com](mailto:ensias.ai.club@gmail.com)
 
 We're excited to have you as part of our AI community at ENSIAS. Let's learn, create, and innovate together! 🤖🚀
 
 </div>
 
 #
-<p align="center"> © 2023 ENSIAS AI Club </p>
+<p align="center"> © 2024 ENSIAS AI Club </p>
