@@ -1,7 +1,10 @@
-# <picture><img align="left" width="40" src="../assets/ENSIAS_AI_Club_Logo_White.png"></picture> ENSIAS AI Club
+ <picture><img align="left" width="100" src="https://eaic.vercel.app/assets/ENSIAS_AI_Club_logo_white_text-344a81a8.png"></picture>
+<br>
+
+#
 
 <picture>
-<img width="100%" src="../assets/ENSIAS_AI_Club_Teaser.gif">
+<img width="100%" src="https://eaic.vercel.app/assets/ENSIAS_AI_Club_teaser-8711abf9.gif">
 </picture>
 
 Welcome to the official GitHub Organization of the ENSIAS AI Club! We are a community of AI enthusiasts at the National School of Computer Science and Systems Analysis (ENSIAS) in Morocco. Our mission is to promote and explore the fascinating world of Artificial Intelligence (AI) through collaborative projects, workshops, and knowledge sharing. 🚀
@@ -43,7 +46,7 @@ Joining the ENSIAS AI Club is easy and open to all ENSIAS students who share our
 
 ## 🌐 Connect With Us 
 <picture>
-<img align="right" width="200" src="../assets/ENSIAS_AI_Club_Logo_White.png">
+<img align="right" width="200" src="https://eaic.vercel.app/assets/ENSIAS_AI_Club_logo_white-cb86c93d.png">
 </picture>
 <div align="left">
 
